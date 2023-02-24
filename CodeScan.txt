@@ -1,0 +1,8 @@
+A CodeQL scan was performed on a Python project. The scan included five security-related queries: 
+1. "Bad HTML filtering regexp"
+2. "Clear-text logging of sensitive information" 
+3. "Clear-text storage of sensitive information" 
+4. "Binding a socket to all network interfaces" 
+6. "Information exposure through an exception". 
+
+Note: Results were found for each query and saved in separate files.
